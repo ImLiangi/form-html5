@@ -1,0 +1,20 @@
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+.payment-card {
+  max-width: 1150px;
+}
+.card-icons {
+  display: inline-flex;
+  gap: 0.5rem;
+  background-color: #f1f3f5;
+  border-radius: 4px;
+}
+
+.card-icons span {
+  width: 36px;
+  height: 24px;
+  border-radius: 4px;
+  background-color: #adb5bd;
+}
